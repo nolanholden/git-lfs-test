@@ -1,1 +1,2 @@
 lfs-managed-file.txt filter=lfs diff=lfs merge=lfs -text
+bone-debian-9.2-iot-armhf-2017-10-10-4gb.img.xz filter=lfs diff=lfs merge=lfs -text
